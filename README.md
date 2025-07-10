@@ -48,7 +48,5 @@ async fn main() {
 - `client.chat_once(input)` – stateless single message
 - `client.clear_memory()` – clear conversation history
 
-## License
-MIT or Apache-2.0 (add your license here)
 
 ---
