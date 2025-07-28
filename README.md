@@ -15,14 +15,8 @@ Gemini_rs = "0.1.0"
 ```
 
 ## API Key Setup
-You need a Google Gemini API key. You can provide it directly or via environment variables using a `.env` file:
-
-```
-GEMINI_API_KEY=your_api_key_here
-GEMINI_MODEL=gemini-2.5-flash
-```
-
-Or pass the key and model as arguments to `Client::new`.
+You need a Google Gemini API key
+pass the key and model as arguments to `Client::new`.
 
 ## Example Usage
 ```rust
